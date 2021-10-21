@@ -10,7 +10,7 @@ Refer to https://github.com/ku2482/rltorch for the code.
 
 ## OP3
 Name of the robot.  
-<img src="https://user-images.githubusercontent.com/59335458/138269207-a2fbec91-5f7e-43b7-b381-06837a8e6acf.jpg" width="50">
+<img src="https://user-images.githubusercontent.com/59335458/138269207-a2fbec91-5f7e-43b7-b381-06837a8e6acf.jpg" width="350">
 
 
 ## Actual learning videos.
