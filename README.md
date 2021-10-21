@@ -9,7 +9,9 @@ Off-policy with continuous value control.
 Refer to https://github.com/ku2482/rltorch for the code.  
 
 ## OP3
-Name of the robot  
+Name of the robot.
+![OP3](https://user-images.githubusercontent.com/59335458/138269207-a2fbec91-5f7e-43b7-b381-06837a8e6acf.jpg)
+
 
 ## Actual learning videos.
-
+![output4](https://user-images.githubusercontent.com/59335458/138269118-4ef403a3-fe0c-4c42-8a8b-72417af3000a.gif)
