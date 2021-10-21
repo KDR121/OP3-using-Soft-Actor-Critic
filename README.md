@@ -1,7 +1,7 @@
 # OP3-using-Soft-Actor-Critic
-Program to make OP3 learn walking training by using Soft Actor-Critic  
+Program to make OP3 learn walking training by using Soft Actor-Critic.  
 The simulation environment is gazebo.  
-Running it using ros  
+Running it using ros.  
 
 ## Soft Actor-Critic
 One of the reinforcement learning algorithms.  
