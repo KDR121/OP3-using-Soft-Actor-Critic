@@ -15,5 +15,5 @@ ROBOTIS社により提供されているヒューマノイドロボット
 
 
 ## 学習結果
-寝転んだ状態から二日間学習させた結果
+寝転んだ状態から二日間学習させた結果  
 ![output4](https://user-images.githubusercontent.com/59335458/138269118-4ef403a3-fe0c-4c42-8a8b-72417af3000a.gif)
