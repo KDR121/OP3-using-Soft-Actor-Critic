@@ -14,5 +14,6 @@ ROBOTIS社により提供されているヒューマノイドロボット
 <img src="https://user-images.githubusercontent.com/59335458/138269207-a2fbec91-5f7e-43b7-b381-06837a8e6acf.jpg" width="250">
 
 
-## Actual learning videos.
+## 学習結果
+寝転んだ状態から二日間学習させた結果
 ![output4](https://user-images.githubusercontent.com/59335458/138269118-4ef403a3-fe0c-4c42-8a8b-72417af3000a.gif)
