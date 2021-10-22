@@ -1,15 +1,14 @@
 # OP3-using-Soft-Actor-Critic
-Program to make OP3 learn walking training by using Soft Actor-Critic.  
-The simulation environment is gazebo.  
-Running it using ros.  
+## 特徴
+OP3と呼ばれるロボットをSoft Actor-Critic法を用いて歩行訓練を行うプログラムです。
 
 ## Soft Actor-Critic
-One of the reinforcement learning algorithms.  
-Off-policy with continuous value control.  
-Refer to https://github.com/ku2482/rltorch for the code.  
+強化学習アルゴリズムの一つ
+連続値を制御することが出来、off-policy
+https://github.com/ku2482/rltorch を参照させていただいております。
 
 ## OP3
-Name of the robot.  
+ROBOTIS社により提供されているヒューマノイドロボット
 <img src="https://user-images.githubusercontent.com/59335458/138269207-a2fbec91-5f7e-43b7-b381-06837a8e6acf.jpg" width="250">
 
 
