@@ -1,14 +1,14 @@
 # OP3-using-Soft-Actor-Critic
 ## 特徴
-OP3と呼ばれるロボットをSoft Actor-Critic法を用いて歩行訓練を行うプログラムです。
+OP3と呼ばれるロボットをSoft Actor-Critic法を用いて歩行訓練を行うプログラムです。  
 
 ## Soft Actor-Critic
-強化学習アルゴリズムの一つ
-連続値を制御することが出来、off-policy
-https://github.com/ku2482/rltorch を参照させていただいております。
+強化学習アルゴリズムの一つ  
+連続値を制御することが出来、off-policy  
+https://github.com/ku2482/rltorch を参照させていただいております。  
 
 ## OP3
-ROBOTIS社により提供されているヒューマノイドロボット
+ROBOTIS社により提供されているヒューマノイドロボット  
 <img src="https://user-images.githubusercontent.com/59335458/138269207-a2fbec91-5f7e-43b7-b381-06837a8e6acf.jpg" width="250">
 
 
